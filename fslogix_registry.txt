@@ -1,0 +1,4 @@
+"DeleteLocalProfileWhenVHDShouldApply"=dword:00000001
+"PreventLoginWithFailure"=dword:00000001
+"PreventLoginWithTempProfile"=dword:00000001
+"VolumeType"=string:"vhd"
